@@ -1,6 +1,6 @@
-# 🐳 NGINX on Minikube — Kubernetes Lab
+# Nginx on Minikube
 
-This is a basic deployment of an NGINX web server on a local Minikube Kubernetes cluster using Docker Desktop as the container runtime.
+This is a basic deployment of an NGINX web server on a local Minikube k8 cluster using Docker Desktop as the container runtime.
 
 ## ✅ Prerequisites
 
